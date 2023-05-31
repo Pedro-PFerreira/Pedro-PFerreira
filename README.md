@@ -32,7 +32,7 @@ I'm a 3rd year student in integrated master degree of Informatics and Computing 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-PFerreira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
- ## My projects
+ ### My projects:
 
 | Year | Semester | Course                                                        | Description                                                                                                                                                                                                                                                                                                                                              | Grade |
 | ---- | -------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
