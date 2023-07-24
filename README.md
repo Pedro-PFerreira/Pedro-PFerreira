@@ -51,7 +51,7 @@ I'm a 3rd year student in integrated master degree of Informatics and Computing 
 | 3    | 2        | [CPD](https://github.com/Pedro-PFerreira/CPD/)                | The 2 CPD's projects. The first is about the parallel computing power for the multiplication matrix in Java and C++, while the second one is about a client-server application for a game, that ensueres authentication, fault tolerance for all the players using distributed computation. Also has different game modes (normal and ranked game mode). | 16.9 and 18.5   |
 | 3    | 2        | [IA 1](https://github.com/Pedro-CAB/IA-Project)               | Recreation of the game board Wana, where we made virtual players that can play with an human or another computer using Artificial Inteligence. In this project the plays were determined using the Minimax algorithm.                                                                                                                                    | 17.5   |
 | 3    | 2        | [IA 2](https://github.com/Pedro-CAB/IA-Project-2)             | Machine Learning Model what predicts whether a policeholder will claim their car insurance after 6 months, using logistic regression. | 18.5   |
-| 3    | 2        | [PI](https://github.com/Pedro-CAB/projeto-integrador)         | Porto University Orphean's management website, so that its direction members can deal with internal infos in a simply and easier way. | TBD   |
+| 3    | 2        | [PI](https://github.com/Pedro-CAB/projeto-integrador)         | Porto University Orphean's management website, so that its direction members can deal with internal infos in a simply and easier way. | 17 |
 
   
 
