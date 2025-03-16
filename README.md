@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Ferreira! 👋
 
-I'm a 4th year student in integrated master degree of Informatics and Computing Engineering at FEUP.
+I'm a 5th year student in integrated master degree of Informatics and Computing Engineering at FEUP.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pedro-ferreira-9b529325b/">
