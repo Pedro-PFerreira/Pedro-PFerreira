@@ -22,14 +22,6 @@ I'm a 5th year student in integrated master degree of Informatics and Computing 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### My Stats:
-
-<div>
-    <a href="https://github.com/Pedro-PFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-PFerreira&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-PFerreira&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   
 ## My main projects
 
